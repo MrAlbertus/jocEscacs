@@ -15,4 +15,4 @@ Peones (6 tests): Se comprueba el movimiento hacia adelante, la captura en diago
 
 Caballos (6 tests): Se valida el movimiento en forma de L en todas las direcciones y que no se salgan de los límites del tablero.
 
-Los tests se encuentran en la carpeta jocEscacs/jocEscacsTest.java.
+Los tests se encuentran en la carpeta src/test/java/EscacsTest.java.
